@@ -82,7 +82,7 @@ https://gamm3.ztgame.com/sns/oauth2/get_access_token?appid=APPID&code=CODE&sign=
     }
 }
 ```
-
+ 
 | 参数   | 说明  |
 | ---    | ---   |
 | openid | 授权用户唯一标识|
@@ -157,7 +157,7 @@ https://gamm3.ztgame.com/sns/oauth2/refresh_token?appid=APPID&refresh_token=REFR
 }
 ```
 
-
+1111
 ## 第三步：通过access_token调用接口
 
 > 调用响应的接口，请查看对应的接口详细描述。
